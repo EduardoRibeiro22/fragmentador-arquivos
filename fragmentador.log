@@ -142,3 +142,27 @@ jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArqui
 FINE: Escrevendo fragmento em picanha.jpg.13
 jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.Principal main
 INFO: Fragmentação concluída com sucesso! 
+jan. 15, 2026 9:44:04 PM com.algaworks.arquivos.Principal main
+INFO: Iniciando programa de fragmentação...
+jan. 15, 2026 9:44:04 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo <init>
+WARNING: Tamanho dos fragmentos muito pequeno. Considere aumentar para no mínimo 100kb
+jan. 15, 2026 9:44:04 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+INFO: Fragmentação invocada para arquivo originalfotos\picanha.jpg com fragmentos de até 51200 bytes
+jan. 15, 2026 9:44:04 PM com.algaworks.arquivos.Principal main
+INFO: Fragmentação concluída com sucesso! 
+jan. 15, 2026 9:46:20 PM com.algaworks.arquivos.Principal main
+INFO: Iniciando programa de fragmentação...
+jan. 15, 2026 9:46:20 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo <init>
+WARNING: Tamanho dos fragmentos muito pequeno. Considere aumentar para no mínimo 100kb
+jan. 15, 2026 9:46:20 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+INFO: Fragmentação invocada para arquivo originalfotos\picanha.jpg com fragmentos de até 51200 bytes
+jan. 15, 2026 9:46:20 PM com.algaworks.arquivos.Principal main
+INFO: Fragmentação concluída com sucesso! 
+jan. 15, 2026 9:47:10 PM com.algaworks.arquivos.Principal main
+INFO: Iniciando programa de fragmentação...
+jan. 15, 2026 9:47:10 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo <init>
+WARNING: Tamanho dos fragmentos muito pequeno. Considere aumentar para no mínimo 100kb
+jan. 15, 2026 9:47:10 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+INFO: Fragmentação invocada para arquivo originalfotos\picanha.jpg com fragmentos de até 51200 bytes
+jan. 15, 2026 9:47:10 PM com.algaworks.arquivos.Principal main
+SEVERE: Erro fragmentando arquivo

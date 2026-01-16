@@ -3,11 +3,12 @@ package com.algaworks.arquivos;
 import com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo;
 
 import java.nio.file.Path;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
+import org.slf4j.LoggerFactory;
+import org.slf4j.Logger;
 
 public class Principal {
-    public static final Logger logger = Logger.getLogger(Principal.class.getName());
+    public static final Logger logger = LoggerFactory.getLogger(Principal.class);
 
     public static void main(String[] args) {
         try {
@@ -20,7 +21,7 @@ public class Principal {
             logger.info("Fragmentação concluída com sucesso! ");
 //            System.out.println("INFO: Fragmentação concluída com sucesso!");
         } catch (Exception e) {
-            logger.log(Level.SEVERE,"Erro fragmentando arquivo");
+            logger.error("Erro fragmentando arquivo");
 //            System.out.println("Erro fragmentando arquivo");
             e.printStackTrace();
         }
