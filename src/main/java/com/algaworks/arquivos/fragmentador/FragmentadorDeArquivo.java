@@ -5,12 +5,10 @@ import java.nio.ByteBuffer;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Objects;
-import java.util.logging.Level;
 
 import static java.nio.file.StandardOpenOption.*;
 
 import org.slf4j.Logger;
-
 import org.slf4j.LoggerFactory;
 
 public class FragmentadorDeArquivo {
