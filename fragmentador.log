@@ -1,0 +1,144 @@
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.Principal main
+INFO: Iniciando programa de fragmentação...
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo <init>
+WARNING: Tamanho dos fragmentos muito pequeno. Considere aumentar para no mínimo 100kb
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+INFO: Fragmentação invocada para arquivo originalfotos\picanha.jpg com fragmentos de até 51200 bytes
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 1
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.1
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 2
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.2
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 3
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.3
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 4
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.4
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 5
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.5
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 6
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.6
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 7
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.7
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 8
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.8
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 9
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.9
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 10
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.10
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 11
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.11
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 12
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.12
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 13
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.13
+jan. 15, 2026 9:25:25 PM com.algaworks.arquivos.Principal main
+INFO: Fragmentação concluída com sucesso! 
+jan. 15, 2026 9:26:35 PM com.algaworks.arquivos.Principal main
+INFO: Iniciando programa de fragmentação...
+jan. 15, 2026 9:26:35 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo <init>
+WARNING: Tamanho dos fragmentos muito pequeno. Considere aumentar para no mínimo 100kb
+jan. 15, 2026 9:26:35 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+INFO: Fragmentação invocada para arquivo originalfotos\picanha.jpg com fragmentos de até 51200 bytes
+jan. 15, 2026 9:26:35 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 1
+jan. 15, 2026 9:26:35 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.1
+jan. 15, 2026 9:26:35 PM com.algaworks.arquivos.Principal main
+SEVERE: Erro fragmentando arquivo
+jan. 15, 2026 9:27:23 PM com.algaworks.arquivos.Principal main
+INFO: Iniciando programa de fragmentação...
+jan. 15, 2026 9:27:23 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo <init>
+WARNING: Tamanho dos fragmentos muito pequeno. Considere aumentar para no mínimo 100kb
+jan. 15, 2026 9:27:23 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+INFO: Fragmentação invocada para arquivo originalfotos\picanha.jpg com fragmentos de até 51200 bytes
+jan. 15, 2026 9:27:23 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 1
+jan. 15, 2026 9:27:23 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.1
+jan. 15, 2026 9:27:23 PM com.algaworks.arquivos.Principal main
+SEVERE: Erro fragmentando arquivo
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.Principal main
+INFO: Iniciando programa de fragmentação...
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo <init>
+WARNING: Tamanho dos fragmentos muito pequeno. Considere aumentar para no mínimo 100kb
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+INFO: Fragmentação invocada para arquivo originalfotos\picanha.jpg com fragmentos de até 51200 bytes
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 1
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.1
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 2
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.2
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 3
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.3
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 4
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.4
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 5
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.5
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 6
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.6
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 7
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.7
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 8
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.8
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 9
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.9
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 10
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.10
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 11
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.11
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 12
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.12
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo fragmentar
+FINE: Lendo buffer de fragmento 13
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.fragmentador.FragmentadorDeArquivo escreverFragmento
+FINE: Escrevendo fragmento em picanha.jpg.13
+jan. 15, 2026 9:29:15 PM com.algaworks.arquivos.Principal main
+INFO: Fragmentação concluída com sucesso! 
